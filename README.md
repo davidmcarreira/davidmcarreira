@@ -1,14 +1,26 @@
 # Hey there! 
-Don't mind me, I'm still under *construction*. :construction_worker:
+
+<div style="text-align:center;">
+    Don't mind me, I'm still under *construction*. :construction_worker:
+</div>
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,matlab,arduino,docker,photoshop,illustrator,&perline=5)](https://skillicons.dev)
+## Programming languages
+[![My Skills](https://skillicons.dev/icons?i=python,java,matlab,arduino,&perline=6)](https://skillicons.dev)
 
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,&perline=6)](https://skillicons.dev)
+
+## Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=pytorch,&perline=6)](https://skillicons.dev)
+
+## Graphics design
+[![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,&perline=6)](https://skillicons.dev)
 
 </br>
 
 ---
-
-![](https://komarev.com/ghpvc/?username=davidmcarreira)
-
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=davidmcarreira" width="150">
+</p>
