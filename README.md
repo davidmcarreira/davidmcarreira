@@ -1,8 +1,6 @@
 # Hey there! 
 
-<div style="text-align:center;">
-    Don't mind me, I'm still under *construction*. :construction_worker:
-</div>
+<div style="text-align:center;">Don't mind me, I'm still under <i>construction</i>. :construction_worker:</div>
 
 </br>
 
