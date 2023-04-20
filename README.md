@@ -10,7 +10,7 @@
 ## Tools and Operating Systems
 <div class="image-container">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Docker.svg" style="margin-left: 0px;" width="" height="48">
-    <img src="https://cdn.iconscout.com/icon/free/png-512/ubuntu-16-1175076.png?f=avif&w=256" style="margin-left: 10px;" width="" height="48">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/ubuntu-16-1175076.png?f=avif&w=256" style="margin-left: 100px;" width="" height="48">
     <img src="https://cdn.iconscout.com/icon/free/png-512/microsoft-windows-1868947-1583111.png?f=avif&w=256" style="margin-left: 7px;" width="" height="48">
 </div>
 
