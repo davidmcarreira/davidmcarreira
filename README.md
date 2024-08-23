@@ -1,6 +1,6 @@
 # Hey there! 
 
-<div style="text-align:center;">Don't mind me, I'm still under <i>construction</i>. :construction_worker:</div>
+<div style="text-align:center;">I'm a Machine Learning Engineer with a special interest in Computer Vision, Facial Recognition, Object Detection and Image Segmentation.</div>
 
 </br>
 
