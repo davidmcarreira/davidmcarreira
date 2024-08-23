@@ -15,7 +15,7 @@
 </div>
 
 ## Machine Learning
-[![My Skills](https://skillicons.dev/icons?i=pytorch,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,&perline=6)](https://skillicons.dev)
 
 ## Graphics design
 [![My Skills](https://skillicons.dev/icons?i=photoshop,illustrator,&perline=6)](https://skillicons.dev)
